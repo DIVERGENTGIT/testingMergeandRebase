@@ -1,0 +1,5 @@
+1)Merge dosnt care about logs
+2)rebase reserves all the logs : git pull --rebase
+3)Git is having mirrored featured which is not available at svn
+
+
